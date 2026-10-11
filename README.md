@@ -20,4 +20,4 @@ Information Science & Engineering undergrad building practical GenAI application
 
 ---
 
-📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:mahekfathima31@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mahek-fathima/) | [Email](mailto:mahekfathima31@gmail.com)

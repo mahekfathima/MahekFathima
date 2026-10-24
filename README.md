@@ -1,3 +1,4 @@
+🌐 **Live 3D Portfolio:** [mahekfathima.github.io/mahek_fathima_portfolio](https://mahekfathima.github.io/mahek_fathima_portfolio/)
 # Hi, I'm Mahek Fathima 👋
 
 🚀 **Full-Stack Developer & AI Systems Builder**  

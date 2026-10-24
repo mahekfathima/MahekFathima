@@ -1,24 +1,23 @@
-🌐 **Live 3D Portfolio:** [mahekfathima.github.io/mahek_fathima_portfolio](https://mahekfathima.github.io/mahek_fathima_portfolio/)
-# Hi, I'm Mahek Fathima 👋
+<div align="center">
 
-🚀 **Full-Stack Developer & AI Systems Builder**  
-Information Science & Engineering undergrad building practical GenAI applications, multimodal tools, and backend microservices.
+# ⚡ MAHEK FATHIMA
+### Full-Stack & Generative AI Systems Engineer
+**Information Science & Engineering • Mysuru, India**
 
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Frameworks & Tools:** FastAPI, React, Next.js, Streamlit, Docker
-- **AI & Data:** GenAI, RAG Architectures, ChromaDB, FAISS, XGBoost, SHAP
-- **Cloud & Platforms:** Google Cloud Run, Firebase, Vertex AI
+[![Live Portfolio](https://img.shields.io/badge/🌐_Interactive_3D_Portfolio-09090b?style=for-the-badge&logo=three.js&logoColor=00ffcc)](https://mahekfathima.github.io/mahek_fathima_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahekfathima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahekfathima31@email.com)
 
 ---
 
-### 🌟 Featured Projects
-- **[pacha](https://github.com/mahekfathima/pacha)** – AI-driven urban canopy restoration platform integrating Google Earth Engine and Vertex AI Vision *(Award of Excellence @ Build for Bengaluru)*.
-- **[Slice-AI](https://github.com/mahekfathima/Slice-AI)** – Bill-splitting application using a hybrid OCR pipeline with PaddleOCR, Gemini, FastAPI, and Next.js.
-- **[swachh](https://github.com/mahekfathima/swachh)** – Crowdsourced civic waste-monitoring prototype with automated image verification.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Architecting%20Intelligent%20Pipelines&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%" />
 
----
+</div>
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mahek-fathima/) | [Email](mailto:mahekfathima31@gmail.com)
+### 🔮 Core Competencies & Tech Matrix
+
+```yaml
+AI & Machine Learning : Gemini 1.5 Flash, PyTorch, RAG Pipelines, ChromaDB, LangChain, TorchVision
+Backend & Systems     : Python (FastAPI), Asynchronous REST APIs, SQL, PostgreSQL, PostGIS
+Full-Stack & Web      : JavaScript (ES Modules), React, Next.js, Streamlit, HTML5/TailwindCSS
+Cloud, GIS & DevOps   : Google Cloud Run, Vertex AI Vision, Google Earth Engine, Firebase, Docker, Git

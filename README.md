@@ -11,7 +11,7 @@ Building production web platforms, reliable Generative AI pipelines, and high-th
 ### Current Focus & Experience
 
 - **Software Engineer Intern — Jervis Technologies** *(Nov 2026 – Present)*  
-  Engineering full-stack web applications, e-commerce storefronts (`lautas.com`, `rusti.in`), RESTful APIs, and production cloud/DNS workflows.
+  Engineering full-stack web applications, e-commerce storefronts (`lautas.com`, `silverfeather.co.in`), RESTful APIs, and production cloud/DNS workflows.
 
 
 ---
